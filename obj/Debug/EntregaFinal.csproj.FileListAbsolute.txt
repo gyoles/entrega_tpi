@@ -1,0 +1,11 @@
+G:\Gabriel\Programación\UTN\Tercer Cuatrimestre\Programación II\Ejercitación\EntregaFinal\bin\Debug\EntregaFinal.exe.config
+G:\Gabriel\Programación\UTN\Tercer Cuatrimestre\Programación II\Ejercitación\EntregaFinal\bin\Debug\EntregaFinal.exe
+G:\Gabriel\Programación\UTN\Tercer Cuatrimestre\Programación II\Ejercitación\EntregaFinal\bin\Debug\EntregaFinal.pdb
+G:\Gabriel\Programación\UTN\Tercer Cuatrimestre\Programación II\Ejercitación\EntregaFinal\obj\Debug\EntregaFinal.csproj.AssemblyReference.cache
+G:\Gabriel\Programación\UTN\Tercer Cuatrimestre\Programación II\Ejercitación\EntregaFinal\obj\Debug\EntregaFinal.FrmFarmacia.resources
+G:\Gabriel\Programación\UTN\Tercer Cuatrimestre\Programación II\Ejercitación\EntregaFinal\obj\Debug\EntregaFinal.FrmAlta.resources
+G:\Gabriel\Programación\UTN\Tercer Cuatrimestre\Programación II\Ejercitación\EntregaFinal\obj\Debug\EntregaFinal.Properties.Resources.resources
+G:\Gabriel\Programación\UTN\Tercer Cuatrimestre\Programación II\Ejercitación\EntregaFinal\obj\Debug\EntregaFinal.csproj.GenerateResource.cache
+G:\Gabriel\Programación\UTN\Tercer Cuatrimestre\Programación II\Ejercitación\EntregaFinal\obj\Debug\EntregaFinal.csproj.CoreCompileInputs.cache
+G:\Gabriel\Programación\UTN\Tercer Cuatrimestre\Programación II\Ejercitación\EntregaFinal\obj\Debug\EntregaFinal.exe
+G:\Gabriel\Programación\UTN\Tercer Cuatrimestre\Programación II\Ejercitación\EntregaFinal\obj\Debug\EntregaFinal.pdb
